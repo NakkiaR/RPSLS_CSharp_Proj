@@ -1,0 +1,16 @@
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.exe
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.deps.json
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.runtimeconfig.json
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.runtimeconfig.dev.json
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.dll
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\ref\RSPLSProject.dll
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\bin\Debug\net5.0\RSPLSProject.pdb
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.csproj.AssemblyReference.cache
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.AssemblyInfoInputs.cache
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.AssemblyInfo.cs
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.csproj.CoreCompileInputs.cache
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.dll
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\ref\RSPLSProject.dll
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.pdb
+C:\Users\verno\Desktop\RSPLSProject\RSPLSProject\obj\Debug\net5.0\RSPLSProject.genruntimeconfig.cache
