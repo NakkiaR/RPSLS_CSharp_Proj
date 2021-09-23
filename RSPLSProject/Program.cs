@@ -6,7 +6,9 @@ namespace RSPLSProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player ... = new Player("");
+            
+            Console.WriteLine("Hello Kitty!");
         }
     }
 }
